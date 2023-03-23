@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "cmpjs",
+  "info": {
+    "singularName": "cmpj",
+    "pluralName": "cmpjs",
+    "displayName": "CMPJ",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "title_assembly": {
+      "type": "string"
+    },
+    "description_assembly": {
+      "type": "text"
+    },
+    "title_directive": {
+      "type": "string"
+    },
+    "description_directive": {
+      "type": "text"
+    },
+    "link_video": {
+      "type": "string"
+    },
+    "link_drive": {
+      "type": "string"
+    }
+  }
+}
